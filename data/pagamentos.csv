@@ -1,0 +1,501 @@
+﻿id_pagamento;id_pedido;metodo_pagamento;status_pagamento;data_pagamento;valor_pago
+1;1;Boleto;Pendente;20/04/2022;
+2;2;Cartão de Crédito;Aprovado;08/08/2022;1497.68
+3;3;Transferência;Recusado;03/01/2024;
+4;4;Boleto;Recusado;03/12/2020;
+5;5;Transferência;Aprovado;11/09/2022;5571.8
+6;6;Cartão de Crédito;Pendente;05/04/2022;
+7;7;Cartão de Crédito;Aprovado;30/07/2022;1497.68
+8;8;Boleto;Pendente;14/02/2023;
+9;9;Transferência;Pendente;26/12/2022;
+10;10;Pix;Pendente;10/11/2024;
+11;11;Pix;Pendente;13/12/2020;
+12;12;Cartão de Crédito;Pendente;10/06/2021;
+13;13;Transferência;Recusado;19/07/2021;
+14;14;Transferência;Pendente;26/03/2022;
+15;15;Cartão de Crédito;Aprovado;11/07/2023;8850.48
+16;16;Cartão de Crédito;Recusado;25/07/2021;
+17;17;Boleto;Recusado;31/01/2022;
+18;18;Boleto;Aprovado;23/10/2020;23962.4
+19;19;Transferência;Pendente;17/10/2023;
+20;20;Pix;Pendente;25/09/2023;
+21;21;Transferência;Pendente;30/01/2023;
+22;22;Cartão de Crédito;Recusado;17/11/2024;
+23;23;Pix;Pendente;24/03/2024;
+24;24;Cartão de Crédito;Aprovado;20/10/2023;5996.88
+25;25;Transferência;Pendente;17/10/2020;
+26;26;Transferência;Aprovado;09/01/2022;532.18
+27;27;Pix;Recusado;03/11/2023;
+28;28;Cartão de Crédito;Aprovado;31/07/2023;4876.56
+29;29;Cartão de Crédito;Aprovado;26/03/2025;16690.44
+30;30;Boleto;Recusado;06/06/2020;
+31;31;Cartão de Crédito;Recusado;28/02/2025;
+32;32;Pix;Pendente;02/07/2023;
+33;33;Cartão de Crédito;Aprovado;27/04/2024;3697.71
+34;34;Pix;Recusado;25/04/2020;
+35;35;Boleto;Recusado;04/04/2023;
+36;36;Transferência;Recusado;21/10/2022;
+37;37;Transferência;Recusado;01/08/2023;
+38;38;Boleto;Pendente;30/10/2023;
+39;39;Cartão de Crédito;Recusado;04/11/2024;
+40;40;Transferência;Pendente;28/11/2024;
+41;41;Pix;Pendente;21/02/2022;
+42;42;Cartão de Crédito;Pendente;01/06/2024;
+43;43;Cartão de Crédito;Aprovado;17/02/2022;3021.64
+44;44;Pix;Recusado;02/08/2022;
+45;45;Transferência;Recusado;22/12/2023;
+46;46;Transferência;Aprovado;24/05/2024;1238.14
+47;47;Cartão de Crédito;Recusado;06/07/2020;
+48;48;Boleto;Aprovado;29/07/2023;5990.72
+49;49;Pix;Pendente;15/02/2023;
+50;50;Pix;Aprovado;15/09/2023;3777.05
+51;51;Cartão de Crédito;Aprovado;01/09/2021;974.68
+52;52;Transferência;Aprovado;29/03/2024;8345.22
+53;53;Transferência;Aprovado;08/05/2021;17757.15
+54;54;Pix;Pendente;22/10/2024;
+55;55;Transferência;Recusado;29/06/2020;
+56;56;Transferência;Aprovado;14/08/2023;3069.79
+57;57;Pix;Pendente;24/01/2025;
+58;58;Transferência;Pendente;30/06/2020;
+59;59;Transferência;Recusado;23/12/2020;
+60;60;Boleto;Recusado;29/11/2023;
+61;61;Pix;Aprovado;02/06/2021;14143.92
+62;62;Cartão de Crédito;Pendente;11/03/2024;
+63;63;Pix;Recusado;23/10/2021;
+64;64;Pix;Aprovado;10/09/2020;2286.6
+65;65;Transferência;Recusado;24/06/2022;
+66;66;Transferência;Pendente;28/06/2023;
+67;67;Transferência;Aprovado;19/01/2023;4928.32
+68;68;Transferência;Pendente;24/01/2022;
+69;69;Pix;Recusado;18/02/2024;
+70;70;Transferência;Aprovado;17/01/2023;1114.36
+71;71;Cartão de Crédito;Pendente;19/02/2023;
+72;72;Transferência;Aprovado;28/06/2023;6276.55
+73;73;Boleto;Pendente;19/08/2022;
+74;74;Boleto;Recusado;07/11/2023;
+75;75;Transferência;Pendente;30/05/2022;
+76;76;Boleto;Pendente;17/12/2020;
+77;77;Boleto;Recusado;07/04/2024;
+78;78;Pix;Aprovado;06/06/2020;14750.8
+79;79;Transferência;Recusado;07/11/2024;
+80;80;Cartão de Crédito;Recusado;15/09/2020;
+81;81;Boleto;Recusado;30/03/2023;
+82;82;Transferência;Aprovado;04/03/2022;8345.22
+83;83;Pix;Aprovado;06/11/2020;12312.28
+84;84;Cartão de Crédito;Recusado;10/08/2020;
+85;85;Boleto;Recusado;12/07/2020;
+86;86;Pix;Aprovado;15/05/2022;17777.76
+87;87;Pix;Recusado;17/12/2021;
+88;88;Pix;Pendente;09/06/2020;
+89;89;Cartão de Crédito;Pendente;24/07/2021;
+90;90;Boleto;Aprovado;18/04/2022;2858.25
+91;91;Transferência;Recusado;04/05/2021;
+92;92;Cartão de Crédito;Aprovado;17/04/2024;4928.32
+93;93;Pix;Recusado;28/03/2021;
+94;94;Transferência;Pendente;23/01/2025;
+95;95;Pix;Recusado;13/02/2022;
+96;96;Transferência;Pendente;21/03/2024;
+97;97;Cartão de Crédito;Pendente;12/06/2022;
+98;98;Cartão de Crédito;Aprovado;28/05/2023;4930.28
+99;99;Boleto;Recusado;10/09/2021;
+100;100;Transferência;Pendente;28/03/2021;
+101;101;Pix;Recusado;28/08/2021;
+102;102;Pix;Recusado;29/11/2022;
+103;103;Cartão de Crédito;Recusado;08/03/2021;
+104;104;Pix;Aprovado;09/03/2025;24641.6
+105;105;Boleto;Recusado;25/06/2020;
+106;106;Boleto;Aprovado;02/12/2022;3021.64
+107;107;Boleto;Pendente;28/02/2025;
+108;108;Boleto;Pendente;17/06/2023;
+109;109;Boleto;Aprovado;22/08/2023;2465.14
+110;110;Cartão de Crédito;Aprovado;14/12/2021;2266.23
+111;111;Pix;Aprovado;29/11/2020;3069.79
+112;112;Boleto;Recusado;01/05/2022;
+113;113;Cartão de Crédito;Pendente;17/02/2021;
+114;114;Pix;Aprovado;30/10/2022;2995.36
+115;115;Transferência;Recusado;18/04/2021;
+116;116;Transferência;Aprovado;29/01/2025;4352.45
+117;117;Cartão de Crédito;Pendente;12/08/2020;
+118;118;Pix;Recusado;21/03/2023;
+119;119;Cartão de Crédito;Aprovado;18/10/2024;10654.29
+120;120;Transferência;Recusado;28/11/2023;
+121;121;Pix;Pendente;02/06/2023;
+122;122;Boleto;Pendente;07/11/2020;
+123;123;Transferência;Recusado;26/07/2024;
+124;124;Cartão de Crédito;Pendente;03/03/2023;
+125;125;Boleto;Aprovado;16/05/2020;6162.85
+126;126;Boleto;Pendente;03/11/2023;
+127;127;Pix;Recusado;08/06/2024;
+128;128;Boleto;Aprovado;28/02/2021;23962.4
+129;129;Pix;Pendente;14/12/2023;
+130;130;Pix;Pendente;07/05/2023;
+131;131;Pix;Pendente;05/03/2024;
+132;132;Pix;Recusado;26/07/2021;
+133;133;Cartão de Crédito;Recusado;21/12/2023;
+134;134;Boleto;Recusado;06/10/2021;
+135;135;Boleto;Pendente;14/09/2024;
+136;136;Pix;Recusado;25/07/2022;
+137;137;Cartão de Crédito;Pendente;04/11/2024;
+138;138;Cartão de Crédito;Pendente;18/05/2024;
+139;139;Pix;Recusado;21/03/2024;
+140;140;Boleto;Recusado;21/12/2023;
+141;141;Transferência;Recusado;19/07/2022;
+142;142;Cartão de Crédito;Aprovado;03/01/2023;4841.56
+143;143;Pix;Recusado;09/05/2022;
+144;144;Pix;Aprovado;01/01/2021;6863.98
+145;145;Boleto;Recusado;21/08/2022;
+146;146;Transferência;Aprovado;06/02/2024;7496.1
+147;147;Transferência;Pendente;04/05/2022;
+148;148;Cartão de Crédito;Pendente;20/03/2024;
+149;149;Transferência;Aprovado;10/02/2025;1114.36
+150;150;Transferência;Aprovado;28/06/2023;3078.07
+151;151;Boleto;Aprovado;16/02/2023;7490.85
+152;152;Boleto;Aprovado;05/07/2020;17777.76
+153;153;Pix;Recusado;20/06/2024;
+154;154;Pix;Aprovado;11/01/2023;5900.32
+155;155;Boleto;Aprovado;23/10/2021;11067.6
+156;156;Cartão de Crédito;Aprovado;30/05/2024;6139.58
+157;157;Boleto;Aprovado;26/01/2022;11067.6
+158;158;Cartão de Crédito;Aprovado;14/04/2023;1064.36
+159;159;Transferência;Pendente;18/06/2022;
+160;160;Boleto;Pendente;28/02/2023;
+161;161;Cartão de Crédito;Aprovado;23/08/2022;14205.72
+162;162;Transferência;Recusado;13/08/2022;
+163;163;Transferência;Pendente;28/12/2024;
+164;164;Boleto;Aprovado;08/05/2020;3697.71
+165;165;Pix;Pendente;29/08/2024;
+166;166;Boleto;Aprovado;21/11/2021;608.3
+167;167;Transferência;Aprovado;28/12/2020;2858.25
+168;168;Pix;Aprovado;26/04/2022;13057.35
+169;169;Cartão de Crédito;Pendente;21/09/2023;
+170;170;Transferência;Recusado;02/06/2024;
+171;171;Transferência;Pendente;26/12/2024;
+172;172;Boleto;Recusado;23/04/2022;
+173;173;Pix;Pendente;25/04/2024;
+174;174;Cartão de Crédito;Aprovado;09/06/2024;13333.32
+175;175;Transferência;Recusado;29/01/2024;
+176;176;Transferência;Aprovado;30/05/2020;1497.68
+177;177;Cartão de Crédito;Pendente;21/01/2021;
+178;178;Transferência;Pendente;08/10/2022;
+179;179;Pix;Recusado;24/02/2022;
+180;180;Pix;Aprovado;15/09/2023;1499.22
+181;181;Pix;Pendente;02/05/2022;
+182;182;Transferência;Pendente;14/11/2022;
+183;183;Boleto;Aprovado;18/03/2025;619.07
+184;184;Pix;Pendente;28/05/2023;
+185;185;Transferência;Recusado;16/04/2024;
+186;186;Transferência;Recusado;21/12/2024;
+187;187;Pix;Recusado;12/10/2024;
+188;188;Cartão de Crédito;Pendente;11/03/2023;
+189;189;Cartão de Crédito;Aprovado;19/11/2023;4792.48
+190;190;Pix;Aprovado;11/12/2024;18446.0
+191;191;Pix;Pendente;29/01/2023;
+192;192;Boleto;Recusado;05/04/2023;
+193;193;Transferência;Recusado;15/02/2024;
+194;194;Cartão de Crédito;Pendente;27/07/2022;
+195;195;Cartão de Crédito;Pendente;15/11/2022;
+196;196;Pix;Aprovado;28/05/2022;6863.98
+197;197;Transferência;Pendente;24/03/2022;
+198;198;Boleto;Aprovado;16/04/2021;14205.72
+199;199;Pix;Pendente;26/11/2021;
+200;200;Transferência;Recusado;13/12/2022;
+201;201;Pix;Recusado;13/04/2021;
+202;202;Pix;Recusado;27/10/2024;
+203;203;Transferência;Recusado;03/11/2021;
+204;204;Pix;Aprovado;23/11/2021;17679.9
+205;205;Cartão de Crédito;Aprovado;08/02/2022;8888.88
+206;206;Pix;Recusado;20/05/2024;
+207;207;Cartão de Crédito;Aprovado;14/08/2022;755.41
+208;208;Pix;Recusado;22/09/2024;
+209;209;Cartão de Crédito;Recusado;03/09/2022;
+210;210;Transferência;Aprovado;13/02/2021;1114.36
+211;211;Boleto;Recusado;01/12/2021;
+212;212;Cartão de Crédito;Recusado;14/10/2022;
+213;213;Transferência;Pendente;14/03/2022;
+214;214;Transferência;Pendente;03/05/2023;
+215;215;Boleto;Pendente;16/10/2021;
+216;216;Cartão de Crédito;Pendente;02/11/2022;
+217;217;Cartão de Crédito;Aprovado;20/05/2020;14986.08
+218;218;Pix;Aprovado;22/10/2024;2228.72
+219;219;Boleto;Aprovado;05/05/2021;13727.96
+220;220;Boleto;Aprovado;07/08/2022;2465.14
+221;221;Transferência;Recusado;26/08/2020;
+222;222;Cartão de Crédito;Recusado;23/09/2020;
+223;223;Boleto;Recusado;21/12/2024;
+224;224;Boleto;Recusado;01/10/2022;
+225;225;Pix;Recusado;04/05/2021;
+226;226;Transferência;Recusado;10/06/2024;
+227;227;Transferência;Aprovado;19/02/2021;6276.55
+228;228;Boleto;Aprovado;15/05/2020;6051.95
+229;229;Pix;Recusado;23/02/2025;
+230;230;Pix;Recusado;07/09/2022;
+231;231;Pix;Recusado;04/04/2024;
+232;232;Transferência;Pendente;03/05/2024;
+233;233;Boleto;Aprovado;05/01/2024;9856.64
+234;234;Pix;Pendente;01/03/2023;
+235;235;Pix;Aprovado;31/10/2021;2228.72
+236;236;Boleto;Recusado;13/09/2020;
+237;237;Transferência;Aprovado;31/05/2022;571.65
+238;238;Transferência;Aprovado;30/04/2024;2998.44
+239;239;Pix;Aprovado;27/03/2021;9234.21
+240;240;Cartão de Crédito;Recusado;27/10/2020;
+241;241;Transferência;Aprovado;03/09/2023;1114.36
+242;242;Pix;Pendente;12/06/2024;
+243;243;Pix;Pendente;23/11/2020;
+244;244;Pix;Recusado;04/03/2025;
+245;245;Cartão de Crédito;Aprovado;20/09/2020;19169.92
+246;246;Transferência;Recusado;22/07/2021;
+247;247;Pix;Recusado;14/07/2021;
+248;248;Transferência;Pendente;19/01/2025;
+249;249;Boleto;Recusado;06/11/2022;
+250;250;Pix;Recusado;27/12/2020;
+251;251;Pix;Pendente;18/05/2022;
+252;252;Cartão de Crédito;Recusado;10/04/2021;
+253;253;Boleto;Pendente;04/01/2025;
+254;254;Cartão de Crédito;Recusado;22/10/2023;
+255;255;Boleto;Recusado;09/03/2022;
+256;256;Boleto;Pendente;16/09/2024;
+257;257;Cartão de Crédito;Aprovado;02/07/2023;19169.92
+258;258;Pix;Recusado;05/02/2024;
+259;259;Transferência;Pendente;12/01/2024;
+260;260;Boleto;Pendente;17/10/2022;
+261;261;Boleto;Aprovado;30/11/2023;1714.95
+262;262;Transferência;Aprovado;11/11/2022;18446.0
+263;263;Boleto;Aprovado;06/02/2025;1857.21
+264;264;Pix;Aprovado;11/10/2020;19151.1
+265;265;Cartão de Crédito;Pendente;09/02/2021;
+266;266;Boleto;Recusado;12/01/2022;
+267;267;Cartão de Crédito;Pendente;22/01/2022;
+268;268;Transferência;Pendente;08/07/2022;
+269;269;Cartão de Crédito;Aprovado;15/12/2020;24641.6
+270;270;Transferência;Pendente;07/08/2021;
+271;271;Pix;Pendente;22/04/2022;
+272;272;Cartão de Crédito;Aprovado;29/09/2021;8704.9
+273;273;Cartão de Crédito;Aprovado;16/12/2024;10607.94
+274;274;Pix;Aprovado;26/11/2020;5021.24
+275;275;Transferência;Pendente;06/08/2021;
+276;276;Transferência;Aprovado;15/04/2020;4444.44
+277;277;Boleto;Pendente;28/09/2023;
+278;278;Pix;Pendente;05/02/2024;
+279;279;Transferência;Recusado;05/04/2024;
+280;280;Pix;Recusado;28/09/2022;
+281;281;Boleto;Pendente;17/07/2020;
+282;282;Pix;Aprovado;27/03/2022;1255.31
+283;283;Boleto;Pendente;19/09/2022;
+284;284;Transferência;Aprovado;02/09/2022;10295.97
+285;285;Pix;Pendente;16/02/2024;
+286;286;Transferência;Recusado;14/11/2020;
+287;287;Cartão de Crédito;Pendente;02/04/2022;
+288;288;Boleto;Aprovado;07/07/2022;1857.21
+289;289;Pix;Pendente;12/12/2021;
+290;290;Cartão de Crédito;Aprovado;18/11/2023;10607.94
+291;291;Transferência;Pendente;29/03/2021;
+292;292;Transferência;Aprovado;23/11/2024;4928.32
+293;293;Pix;Aprovado;06/03/2022;17757.15
+294;294;Cartão de Crédito;Aprovado;13/07/2021;10654.29
+295;295;Pix;Recusado;11/07/2022;
+296;296;Boleto;Pendente;22/06/2021;
+297;297;Cartão de Crédito;Aprovado;14/11/2020;2286.6
+298;298;Pix;Pendente;09/10/2020;
+299;299;Transferência;Recusado;04/09/2021;
+300;300;Pix;Recusado;18/11/2022;
+301;301;Cartão de Crédito;Recusado;08/02/2025;
+302;302;Pix;Aprovado;20/09/2022;6156.14
+303;303;Boleto;Pendente;01/01/2024;
+304;304;Boleto;Aprovado;28/04/2021;24641.6
+305;305;Boleto;Aprovado;02/04/2024;14750.8
+306;306;Pix;Aprovado;07/11/2022;18446.0
+307;307;Transferência;Recusado;09/09/2023;
+308;308;Boleto;Pendente;31/07/2022;
+309;309;Cartão de Crédito;Recusado;09/07/2024;
+310;310;Transferência;Recusado;09/11/2024;
+311;311;Pix;Pendente;19/06/2024;
+312;312;Cartão de Crédito;Pendente;28/12/2023;
+313;313;Boleto;Recusado;12/12/2020;
+314;314;Boleto;Pendente;08/08/2020;
+315;315;Pix;Recusado;10/12/2023;
+316;316;Transferência;Pendente;03/01/2023;
+317;317;Boleto;Recusado;24/05/2022;
+318;318;Transferência;Pendente;26/06/2020;
+319;319;Transferência;Pendente;15/01/2021;
+320;320;Transferência;Pendente;19/03/2022;
+321;321;Transferência;Aprovado;27/02/2025;4497.66
+322;322;Cartão de Crédito;Recusado;05/04/2025;
+323;323;Transferência;Recusado;10/06/2020;
+324;324;Pix;Recusado;23/07/2022;
+325;325;Cartão de Crédito;Aprovado;02/03/2025;4352.45
+326;326;Pix;Pendente;09/08/2020;
+327;327;Boleto;Recusado;03/10/2021;
+328;328;Cartão de Crédito;Pendente;07/04/2024;
+329;329;Transferência;Aprovado;05/09/2024;4457.44
+330;330;Cartão de Crédito;Recusado;10/01/2024;
+331;331;Cartão de Crédito;Pendente;19/08/2022;
+332;332;Transferência;Pendente;22/10/2021;
+333;333;Pix;Aprovado;30/03/2025;2228.72
+334;334;Boleto;Pendente;22/12/2023;
+335;335;Transferência;Aprovado;12/06/2024;10295.97
+336;336;Transferência;Aprovado;15/01/2021;3535.98
+337;337;Transferência;Aprovado;06/04/2024;17757.15
+338;338;Cartão de Crédito;Recusado;24/03/2023;
+339;339;Boleto;Recusado;27/09/2023;
+340;340;Pix;Pendente;06/02/2023;
+341;341;Boleto;Recusado;30/12/2022;
+342;342;Transferência;Recusado;25/02/2021;
+343;343;Boleto;Recusado;19/08/2021;
+344;344;Boleto;Pendente;26/01/2023;
+345;345;Cartão de Crédito;Aprovado;07/10/2023;8850.48
+346;346;Transferência;Recusado;24/06/2024;
+347;347;Transferência;Recusado;19/09/2022;
+348;348;Transferência;Pendente;03/09/2023;
+349;349;Boleto;Aprovado;11/12/2024;608.3
+350;350;Pix;Pendente;30/07/2020;
+351;351;Pix;Pendente;19/02/2024;
+352;352;Cartão de Crédito;Pendente;05/01/2021;
+353;353;Transferência;Recusado;10/12/2022;
+354;354;Cartão de Crédito;Pendente;31/05/2022;
+355;355;Boleto;Pendente;06/01/2023;
+356;356;Cartão de Crédito;Recusado;02/04/2021;
+357;357;Cartão de Crédito;Aprovado;14/09/2023;1497.68
+358;358;Cartão de Crédito;Pendente;22/08/2024;
+359;359;Cartão de Crédito;Aprovado;10/04/2020;12312.28
+360;360;Transferência;Pendente;17/11/2024;
+361;361;Boleto;Pendente;12/03/2024;
+362;362;Boleto;Recusado;12/10/2023;
+363;363;Pix;Pendente;22/09/2020;
+364;364;Pix;Recusado;10/11/2021;
+365;365;Pix;Pendente;03/09/2024;
+366;366;Pix;Pendente;06/05/2023;
+367;367;Boleto;Aprovado;03/07/2024;4930.28
+368;368;Pix;Aprovado;10/01/2024;4928.32
+369;369;Cartão de Crédito;Recusado;14/09/2020;
+370;370;Boleto;Recusado;30/12/2021;
+371;371;Transferência;Recusado;15/07/2022;
+372;372;Transferência;Pendente;08/12/2024;
+373;373;Pix;Recusado;19/05/2021;
+374;374;Transferência;Recusado;18/09/2022;
+375;375;Pix;Recusado;29/12/2023;
+376;376;Transferência;Aprovado;21/05/2024;6162.85
+377;377;Boleto;Aprovado;19/04/2021;755.41
+378;378;Transferência;Pendente;05/07/2020;
+379;379;Transferência;Pendente;20/04/2022;
+380;380;Boleto;Aprovado;12/08/2021;2998.44
+381;381;Boleto;Aprovado;28/11/2022;3069.79
+382;382;Cartão de Crédito;Recusado;13/12/2024;
+383;383;Transferência;Aprovado;19/05/2020;2420.78
+384;384;Boleto;Aprovado;17/12/2024;7378.4
+385;385;Boleto;Aprovado;26/09/2023;2950.16
+386;386;Boleto;Aprovado;21/01/2021;1216.6
+387;387;Cartão de Crédito;Aprovado;06/03/2022;7488.4
+388;388;Pix;Pendente;25/03/2021;
+389;389;Boleto;Pendente;10/03/2024;
+390;390;Pix;Aprovado;06/04/2021;3777.05
+391;391;Cartão de Crédito;Pendente;29/07/2021;
+392;392;Boleto;Recusado;03/07/2024;
+393;393;Boleto;Aprovado;30/09/2022;4930.28
+394;394;Boleto;Aprovado;05/08/2024;4493.04
+395;395;Pix;Pendente;04/08/2022;
+396;396;Boleto;Pendente;19/10/2023;
+397;397;Cartão de Crédito;Recusado;15/05/2024;
+398;398;Transferência;Pendente;13/04/2024;
+399;399;Boleto;Aprovado;04/05/2022;5990.72
+400;400;Boleto;Recusado;25/02/2024;
+401;401;Pix;Aprovado;14/12/2024;4497.66
+402;402;Transferência;Aprovado;30/06/2021;1232.57
+403;403;Pix;Aprovado;12/07/2023;18446.0
+404;404;Pix;Aprovado;20/11/2021;2582.88
+405;405;Transferência;Aprovado;03/08/2024;7488.4
+406;406;Cartão de Crédito;Recusado;05/06/2021;
+407;407;Transferência;Aprovado;09/11/2020;7488.4
+408;408;Boleto;Aprovado;13/08/2022;1510.82
+409;409;Pix;Aprovado;18/10/2023;6095.7
+410;410;Cartão de Crédito;Recusado;26/02/2023;
+411;411;Boleto;Recusado;01/08/2024;
+412;412;Boleto;Pendente;16/07/2022;
+413;413;Pix;Recusado;14/04/2020;
+414;414;Transferência;Aprovado;02/09/2022;4172.61
+415;415;Boleto;Pendente;21/10/2022;
+416;416;Pix;Pendente;04/04/2025;
+417;417;Transferência;Recusado;13/03/2025;
+418;418;Boleto;Aprovado;06/06/2024;7488.4
+419;419;Pix;Aprovado;12/07/2021;3228.6
+420;420;Transferência;Recusado;24/01/2024;
+421;421;Transferência;Aprovado;05/11/2024;4497.66
+422;422;Boleto;Recusado;20/05/2024;
+423;423;Pix;Pendente;15/03/2023;
+424;424;Boleto;Recusado;03/02/2023;
+425;425;Transferência;Pendente;16/12/2024;
+426;426;Cartão de Crédito;Recusado;20/11/2024;
+427;427;Cartão de Crédito;Pendente;22/06/2023;
+428;428;Cartão de Crédito;Pendente;20/02/2024;
+429;429;Transferência;Pendente;01/01/2023;
+430;430;Boleto;Pendente;14/11/2021;
+431;431;Boleto;Pendente;18/04/2022;
+432;432;Boleto;Recusado;16/02/2025;
+433;433;Transferência;Aprovado;10/07/2023;6156.14
+434;434;Cartão de Crédito;Recusado;02/04/2022;
+435;435;Transferência;Recusado;05/10/2023;
+436;436;Transferência;Pendente;20/08/2020;
+437;437;Cartão de Crédito;Recusado;21/12/2022;
+438;438;Transferência;Pendente;15/04/2024;
+439;439;Cartão de Crédito;Recusado;05/07/2023;
+440;440;Pix;Recusado;20/07/2023;
+441;441;Pix;Pendente;23/07/2021;
+442;442;Transferência;Pendente;23/06/2024;
+443;443;Cartão de Crédito;Pendente;31/07/2020;
+444;444;Boleto;Pendente;04/05/2021;
+445;445;Boleto;Recusado;15/07/2024;
+446;446;Pix;Aprovado;02/02/2023;3631.17
+447;447;Pix;Aprovado;12/02/2021;11800.64
+448;448;Cartão de Crédito;Aprovado;04/01/2024;2420.78
+449;449;Transferência;Aprovado;10/02/2021;1143.3
+450;450;Boleto;Recusado;27/09/2024;
+451;451;Boleto;Aprovado;25/02/2024;4928.32
+452;452;Cartão de Crédito;Recusado;24/05/2020;
+453;453;Cartão de Crédito;Pendente;28/06/2021;
+454;454;Transferência;Aprovado;02/10/2023;11239.56
+455;455;Transferência;Recusado;30/07/2021;
+456;456;Transferência;Pendente;25/11/2020;
+457;457;Cartão de Crédito;Recusado;04/04/2024;
+458;458;Boleto;Pendente;09/07/2022;
+459;459;Transferência;Aprovado;22/02/2023;6276.55
+460;460;Pix;Recusado;24/08/2023;
+461;461;Cartão de Crédito;Recusado;12/12/2020;
+462;462;Cartão de Crédito;Pendente;22/01/2023;
+463;463;Boleto;Recusado;20/10/2024;
+464;464;Transferência;Aprovado;01/07/2023;7488.4
+465;465;Cartão de Crédito;Pendente;16/12/2022;
+466;466;Pix;Recusado;01/06/2024;
+467;467;Cartão de Crédito;Pendente;12/11/2024;
+468;468;Pix;Pendente;27/07/2020;
+469;469;Boleto;Recusado;05/11/2020;
+470;470;Boleto;Recusado;06/04/2022;
+471;471;Transferência;Pendente;16/09/2022;
+472;472;Pix;Pendente;14/03/2022;
+473;473;Boleto;Recusado;12/01/2021;
+474;474;Transferência;Recusado;16/12/2023;
+475;475;Pix;Aprovado;06/02/2021;7071.96
+476;476;Boleto;Recusado;13/02/2021;
+477;477;Cartão de Crédito;Recusado;15/01/2024;
+478;478;Pix;Pendente;05/09/2021;
+479;479;Cartão de Crédito;Aprovado;24/10/2022;14986.08
+480;480;Boleto;Pendente;05/07/2020;
+481;481;Pix;Recusado;27/08/2020;
+482;482;Transferência;Aprovado;09/01/2023;20863.05
+483;483;Cartão de Crédito;Recusado;28/09/2020;
+484;484;Pix;Aprovado;05/10/2022;3551.43
+485;485;Transferência;Pendente;25/04/2023;
+486;486;Pix;Recusado;15/06/2023;
+487;487;Transferência;Aprovado;06/12/2023;21762.25
+488;488;Boleto;Recusado;03/07/2021;
+489;489;Transferência;Pendente;05/05/2022;
+490;490;Pix;Pendente;13/10/2024;
+491;491;Cartão de Crédito;Pendente;09/10/2023;
+492;492;Pix;Pendente;29/01/2025;
+493;493;Transferência;Recusado;18/10/2021;
+494;494;Boleto;Recusado;17/09/2021;
+495;495;Transferência;Aprovado;02/10/2021;2998.44
+496;496;Pix;Pendente;08/12/2020;
+497;497;Cartão de Crédito;Pendente;09/07/2023;
+498;498;Pix;Aprovado;25/04/2022;9753.66
+499;499;Pix;Aprovado;01/07/2024;1498.17
+500;500;Cartão de Crédito;Pendente;23/03/2025;

@@ -1,0 +1,25 @@
+Mini Mundo:
+
+Uma empresa de comércio eletrônico deseja gerenciar suas operações de vendas. O sistema deve armazenar informações sobre os clientes, produtos, pedidos e pagamentos.
+
+1. Clientes:
+    - Cada cliente possui um identificador único (ID), nome, e-mail, telefone, endereço e data de cadastro.
+
+2. Produtos:
+    - Cada produto possui um identificador único (ID), nome, descrição, preço, quantidade em estoque e sua categoria.
+
+3. Pedidos:
+    - Cada pedido possui um identificador único (ID), data do pedido, status e está associado a clientes.
+
+4. ItensPedido:
+    - Cada ItensPedido possui um identificador único (ID), quantidade de produtos pedido, preço unitário, subtotal do pedido e está associado a produtos e pedidos.
+
+5. Pagamentos:
+    - Cada pagamento possui um identificador único (ID), data do pagamento, valor pago, método de pagamento (cartão, boleto, etc.), status de pagamento (pendente, aprovado ou recusado) e está associado a um pedido.
+
+Regras de Negócio:
+- Um cliente pode fazer vários pedidos, mas cada pedido pertence a apenas um cliente.
+- Um pedido pode conter vários produtos, e um produto pode estar em vários pedidos.
+- O estoque de um produto deve ser atualizado após a realização de um pedido.
+- Um pedido pode ter apenas um pagamento associado.
+- Deve haver controle de alterações (registro de histórico) nas informações dos clientes e produtos.
