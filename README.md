@@ -71,7 +71,10 @@ Arquivo localizado em:
     insert/
          insert_data.py
 ```
+## Licença
 
-### Créditos
+```
+Desenvolvimento e modelagem em 2025 por pedroryandatadev (Pedro Ryan)
 
-> Desenvolvimento e modelagem por [pedroryandatadev (Pedro Ryan)](https://github.com/pedroryandatadev) 
+Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+```
